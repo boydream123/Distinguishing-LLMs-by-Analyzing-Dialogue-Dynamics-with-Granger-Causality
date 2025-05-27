@@ -38,7 +38,7 @@ This dataset is built based on [DailyDialog](http://yanran.li/dailydialog). By r
 
 
 ## Dataset Structure:
-![Dataset Structure](HH-HC/docs/DataStruct.png)
+
 
 - **`data/`**: Contains the final generated dataset files.
   - `dialog_dataset.jsonl`: A line-delimited JSON file where each line is a JSON object. 
@@ -48,11 +48,13 @@ This dataset is built based on [DailyDialog](http://yanran.li/dailydialog). By r
 
 - **`scripts/`**: Scripts for dataset generation and processing.
   - `build_dataset.py`: The main Python script used to generate the dataset.
-  - `requirements.txt`: A list of Python dependencies required to run the scripts.
+  - `chatbot_identifier_lora.py` The main Python script used to identify H-H and H-C.
+  
 
 - **`LICENSE`**
 
 - **`README.md`**
+- `requirements.txt`: A list of Python dependencies required to run the scripts.
 
 ## Data Format
 
