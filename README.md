@@ -14,6 +14,7 @@ This dataset is built based on [DailyDialog](http://yanran.li/dailydialog). By r
   - [Loading Sample Data](#loading-sample-data)
 - [Data Dictionary](#data-dictionary)
 - [Data Generation Process](#data-generation-process)
+- [ChatbotIdentifier](#ChatbotIdentifier)
 
 
 ## Introduction
