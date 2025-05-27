@@ -1,0 +1,9 @@
+numpy
+torch>=1.10.0   # Or a specific version compatible with your setup
+transformers>=4.20.0 # Check compatibility with Qwen2 and PEFT
+peft>=0.5.0      # Or a recent compatible version
+statsmodels
+scikit-learn
+nltk
+requests
+openai

@@ -1,0 +1,1274 @@
+[
+  {
+    "dialog_id": "hh_1400",
+    "utterances": [
+      "What's the latest fashion of evening gown ?",
+      "The one on the manikin is in fashion now .",
+      "I would like to try on one in violet .",
+      "OK , here you are . You look really attractive in that gown .",
+      "Thank you . Do you have some other colors ?"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_1400",
+    "utterances": [
+      "What's the latest fashion of evening gown ?",
+      "Right now, slip dresses and metallic fabrics are huge for evening gowns—think sleek, minimalist styles with a touch of shimmer. Also, bold colors like emerald green and deep burgundy are trending, along with high-leg slits and open-back designs. If you want something more dramatic, oversized bows and structured silhouettes are making a comeback too!",
+      "I would like to try on one in violet .",
+      "Great choice! Violet is a stunning and regal color for an evening gown—it’s bold yet elegant. Look for styles in satin or velvet for a luxe feel, or go for a metallic lilac if you want something more eye-catching.  \n\nWould you prefer a fitted mermaid silhouette or a flowy A-line? And do you like details like sequins, lace, or a thigh-high slit? I can help narrow it down! 😊",
+      "Thank you . Do you have some other colors ?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_11245",
+    "utterances": [
+      "Well , to come straight to the point , could you tell us something about your new price ?",
+      "Most willingly . It's 600 dollars per ton .",
+      "That's a high price .",
+      "But you know , the price of this article has soared up since last year .",
+      "I know . But I must say it's still unacceptable . Couldn't you make a discount for me ? You see , we have such a long-term cooperation . And our business could be mutually beneficial .",
+      "OK . I can make a special offer for you . This price is based on careful calculations . And it is the lowest price we can offer to you ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_11245",
+    "utterances": [
+      "Well , to come straight to the point , could you tell us something about your new price ?",
+      "Of course! Our new pricing structure is designed to be more flexible and affordable. What specific product or service are you interested in? I’d be happy to share the details.",
+      "That's a high price .",
+      "I understand it might seem steep at first glance. Could you share what specifically feels too high? We might have options like payment plans or packages that could work better for you.",
+      "I know . But I must say it's still unacceptable . Couldn't you make a discount for me ? You see , we have such a long-term cooperation . And our business could be mutually beneficial .",
+      "You make a fair point—our long-term partnership is valuable to us. Let me check what flexibility we can offer. Would a 10% loyalty discount work for you, given our history together?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_4656",
+    "utterances": [
+      "To be frank , I find philosophy rather boring .",
+      "To tell you the truth , it's the most tedious course i have ever had .",
+      "How could you manage to pass the exam ?",
+      "It is still a mystery to me ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_4656",
+    "utterances": [
+      "To be frank , I find philosophy rather boring .",
+      "I get that! Philosophy can feel pretty abstract sometimes. What kind of topics *do* you find interesting? Maybe we can find a fun angle to it.",
+      "How could you manage to pass the exam ?",
+      "Oh man, surviving philosophy exams was all about finding the right approach! I focused on:  \n1. **Big ideas** – Just grasping the core arguments of key thinkers (no need to memorize every detail).  \n2. **Real-life connections** – Linked theories to everyday stuff to make them stick (like debating free will while deciding what to eat for lunch).  \n3. **Past papers** – Practiced structuring answers, since philosophy exams love essay questions.  \n\nWhat subject are you studying that’s giving you trouble? Maybe we can brainstorm tactics!"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_11679",
+    "utterances": [
+      "What sort of experience do you have ?",
+      "I used to work as a mechanic and I was responsible for the maintenance of all the company vehicles .",
+      "Where was your last job ?",
+      "I worked in Hanson Paper Company .",
+      "Why did you quit your last job ?",
+      "Because the company is far away from home , and I have to study after work so I can't afford to waste time on the road everyday ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_11679",
+    "utterances": [
+      "What sort of experience do you have ?",
+      "I'm an AI assistant designed to help with a wide range of topics—from answering questions and offering advice to brainstorming ideas and helping with tasks. I've been trained on diverse information, so I can assist with general knowledge, productivity, creative writing, tech support, and more. What specifically would you like help with?",
+      "Where was your last job ?",
+      "As an AI, I don’t have personal work experience or employment history—I exist purely to assist users like you! My \"job\" is always right here, helping with whatever questions or tasks you have. Is there something specific you'd like support with? I’d be happy to chat or lend a hand. 😊",
+      "Why did you quit your last job ?",
+      "Great question—but as an AI, I’ve never held a job or quit one! I was created to assist you, and I’m always \"on the clock\" (so to speak). No resignations here—just endless enthusiasm for helping out. 😊  \n\nThat said, if you’re asking because *you’re* thinking about quitting a job or navigating a career change, I’d be happy to brainstorm advice or resources. Let me know!"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_4262",
+    "utterances": [
+      "Hey , Cindy , I'm so sorry about yesterday . I shouldn't have yelled at you in front of everyone .",
+      "Don't worry about it .",
+      "I don't know what happened to me . I just lost it .",
+      "I think you just need to get more sleep .",
+      "Yeah , you're right . Good night ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_4262",
+    "utterances": [
+      "Hey , Cindy , I'm so sorry about yesterday . I shouldn't have yelled at you in front of everyone .",
+      "Hey, I appreciate you saying that. It did hurt my feelings, but I'm glad we're talking about it now. Want to grab coffee and talk more?",
+      "I don't know what happened to me . I just lost it .",
+      "We all have bad days, you know? What's important is that you recognize it. That shows you care. Do you want to talk about what was really bothering you?",
+      "Yeah , you're right . Good night ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_3798",
+    "utterances": [
+      "Hi ! Dick . Where are you going ? You're in such a hurry .",
+      "Playground . We're having sports for today's outside class activities . All my classmates have already got there .",
+      "What are you going to play ?",
+      "Some of us will play basketball and some volleyball .",
+      "Enjoy yourself ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_3798",
+    "utterances": [
+      "Hi ! Dick . Where are you going ? You're in such a hurry .",
+      "Hey there! Just rushing to catch the bus - running a bit late today. Didn't mean to zoom past you like that! How's your day going?",
+      "What are you going to play ?",
+      "Oh! Actually I was heading to basketball practice, not play - must've misheard me earlier. Our big game is this weekend so coach wants extra drills. You should come watch if you're free!",
+      "Enjoy yourself ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_7222",
+    "utterances": [
+      "Did you go to the concert last weekend ?",
+      "No , I didn't . And you ? Was it good ?",
+      "Yes , I did . I enjoyed it a lot.There was a folk singer , a violinist and a pianist .",
+      "How much was the ticket ?",
+      "I only paid two dollars for mine ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_7222",
+    "utterances": [
+      "Did you go to the concert last weekend ?",
+      "No, I didn't make it to the concert. How about you—did you go? Was it good?",
+      "Yes , I did . I enjoyed it a lot.There was a folk singer , a violinist and a pianist .",
+      "That sounds like a great mix of performers! Who was the folk singer? I love discovering new artists.",
+      "I only paid two dollars for mine ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_6260",
+    "utterances": [
+      "Did you enjoy the movie ?",
+      "Oh , it's really a drag .",
+      "Sorry to hear that . I think it's even better than On the Golden pond .",
+      "Hell with it ! Nobody will give it an Academy award !"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_6260",
+    "utterances": [
+      "Did you enjoy the movie ?",
+      "Oh, absolutely! It had such a great storyline and the acting was fantastic. Did you like it too? Or was there something you didn’t enjoy about it?",
+      "Sorry to hear that . I think it's even better than On the Golden pond .",
+      "Oh, that’s a strong take! *On the Golden Pond* is such a classic, so that’s high praise. What specifically made you like this one more—was it the characters, the pacing, or something else? I’d love to hear your thoughts!"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_9246",
+    "utterances": [
+      "Thanks for the advice , Mr . Macmillan . I ’ ll keep it in mind . I had better head off though . I ’ m meeting my husband for dinner .",
+      "Sure , I ’ m heading out myself . Enjoy your evening .",
+      "Thanks , sir . You too . Drive safely , I hear there ’ s a lot ice on the roads .",
+      "Thanks for the warning ! See you tomorrow !"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_9246",
+    "utterances": [
+      "Thanks for the advice , Mr . Macmillan . I ’ ll keep it in mind . I had better head off though . I ’ m meeting my husband for dinner .",
+      "You're very welcome! Enjoy your dinner with your husband—sounds like a lovely way to spend the evening. Have a great time!",
+      "Thanks , sir . You too . Drive safely , I hear there ’ s a lot ice on the roads .",
+      "Thanks for the heads-up! I'll definitely take it slow. Stay warm and safe yourself—hope dinner is wonderful!"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_2654",
+    "utterances": [
+      "Shut up ... Billy ... BILLY !",
+      "What !",
+      "Wow ! What's that ?",
+      "It's my new radio earphone .",
+      "It's so small that I didn't notice it .",
+      "What were you screaming at me for ?"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_2654",
+    "utterances": [
+      "Shut up ... Billy ... BILLY !",
+      "Hey, let's keep it chill, okay? Maybe take a deep breath—what's going on?",
+      "Wow ! What's that ?",
+      "Oh! What are you looking at? Is it something cool or surprising? Tell me more!",
+      "It's so small that I didn't notice it .",
+      "Haha, sometimes the smallest things are the easiest to miss! Was it hiding in plain sight, or did you stumble upon it by accident?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_10638",
+    "utterances": [
+      "Let's start out to discuss the question of payment terms .",
+      "I suppose you know very well that we require irrevocable letters of credit payable against presentation of shipping documents .",
+      "I fully understand your position . An irrevocable letter of credit ensures that the seller gets paid in time . But , on the other hand it would add to the buying costs . We've been , after all , trading partners for 3 years and you know us well . Can't you give us D / A or D / P ?",
+      "I'm afraid it has been our practice so far to insist on payment by L / C .",
+      "But on our part , our government is reluctant to approve of L / C payment for our imports . And there is the licensing problem .",
+      "I understand that . Still , I'm not in a position to help you . Maybe we could do something later when we have had more and larger deals together ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_10638",
+    "utterances": [
+      "Let's start out to discuss the question of payment terms .",
+      "Got it! Payment terms are definitely an important topic to clarify. Were you thinking of discussing standard terms like net 30, upfront payments, or something more customized? I'm happy to explore what would work best.  \n\nWhat specific aspects of payment terms are you most interested in?",
+      "I fully understand your position . An irrevocable letter of credit ensures that the seller gets paid in time . But , on the other hand it would add to the buying costs . We've been , after all , trading partners for 3 years and you know us well . Can't you give us D / A or D / P ?",
+      "I appreciate the trust we’ve built over these three years—that’s valuable to us too. While D/A (Documents against Acceptance) or D/P (Documents against Payment) could reduce your costs, they do shift more risk to us as the seller.  \n\nWould you be open to a compromise? For example, we could start with a partial upfront payment (say 30%) and the rest under D/P terms. That way, we both share a bit of the risk while keeping costs manageable for you.  \n\nAlternatively, if we stick with the letter of credit, perhaps we could extend the payment period slightly to ease cash flow? What do you think?",
+      "But on our part , our government is reluctant to approve of L / C payment for our imports . And there is the licensing problem .",
+      "I see—government regulations and licensing make L/Cs difficult for you. That’s a key constraint we should work around.  \n\nGiven that, could we propose:  \n1. **Advance Payment + D/P**: A smaller upfront payment (e.g., 20%) with the rest on D/P terms, so you avoid L/Cs but we still have some security.  \n2. **Standby Letter of Credit**: Less formal than a traditional L/C but still satisfies your government’s requirements—would that be feasible?  \n3. **Escrow Account**: A neutral third party holds funds until goods are delivered, balancing risk for both sides.  \n\nWhich of these aligns closest with what your government might approve? Or is there another"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_8363",
+    "utterances": [
+      "Everybody , I'd like to propose a toast to Mary Johnson , Teacher of the Year . She worked hard all year . She really deserved the honor .",
+      "Yes , we're all proud of her !",
+      "Here's to you , Mary !",
+      "Cheers !"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_8363",
+    "utterances": [
+      "Everybody , I'd like to propose a toast to Mary Johnson , Teacher of the Year . She worked hard all year . She really deserved the honor .",
+      "*raises glass*  \n\n\"Here's to Mary Johnson—an incredible teacher who's made such a difference this year. Her dedication and passion truly shine. Cheers to you, Mary!\" 🥂",
+      "Here's to you , Mary !",
+      "*clinking glasses with others*  \n\n\"To Mary—may your next year be as amazing as you’ve made this one for your students! We're so lucky to have you!\" 🌟"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_2412",
+    "utterances": [
+      "Morning , Mom .",
+      "I made a doctor's appointment for you .",
+      "No , I'm fine . I don't need to see a doctor .",
+      "Then I guess you're healthy enough to clean your room before school .",
+      "OK . I'll go see the doctor .",
+      "Bundle up . It's wet and rainy out there . Here's some soup .",
+      "Chicken soup again ?",
+      "Soup does the body good , sweetie . It's what you need when you're under the weather ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_2412",
+    "utterances": [
+      "Morning , Mom .",
+      "Good morning, sweetie! How'd you sleep?",
+      "No , I'm fine . I don't need to see a doctor .",
+      "Oh honey, I just asked how you slept... but now I'm worried. Are you feeling okay? What's this about a doctor?",
+      "OK . I'll go see the doctor .",
+      "That's my responsible kiddo. Do you want me to come with you? Or should I just call and make the appointment?",
+      "Chicken soup again ?",
+      "*chuckling* Oh you! We haven't even had breakfast yet and you're thinking about lunch. But yes, I can make your favorite chicken soup later if you're not feeling well."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_12163",
+    "utterances": [
+      "Hey , Tom . I saw this ad in the paper . You should take a look .",
+      "What is it ?",
+      "It's for a job . It looks perfect for you .",
+      "Let me see . Wanted , manager for up-and-coming firm . Must have good organizational skills . Experience a plus . Please contact Susan Lee . Oh , I don't know ...",
+      "Come on ! What have you got to lose ?",
+      "What about my resume ?",
+      "Here , I ’ ll help you type one up .",
+      "Thanks , Mary . You are real pal . I'll call now to set up an interview ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_12163",
+    "utterances": [
+      "Hey , Tom . I saw this ad in the paper . You should take a look .",
+      "Oh yeah? What's the ad about? Sounds intriguing!",
+      "It's for a job . It looks perfect for you .",
+      "Really? That's great to hear! What kind of job is it? I've been thinking about making a change lately.",
+      "Come on ! What have you got to lose ?",
+      "You're right - no harm in checking it out! Could you send me the details? Appreciate you looking out for me!",
+      "Here , I ’ ll help you type one up .",
+      "That's really kind of you! Want to grab a coffee while we work on it? My treat for being such a good friend."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_1543",
+    "utterances": [
+      "Oh , the bus is gone .",
+      "Pity we didn't catch it .",
+      "I'm afraid we have to wait for the next bus .",
+      "We have to wait six more minutes !"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_1543",
+    "utterances": [
+      "Oh , the bus is gone .",
+      "Ugh, that's the worst! How long until the next one comes? Or do you need to figure out another way to get where you're going?",
+      "I'm afraid we have to wait for the next bus .",
+      "Yeah, waiting is never fun. At least we can people-watch or chat to pass the time! Got any good bus stop stories?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_9836",
+    "utterances": [
+      "Hello , is there anything I can do for you ?",
+      "Yes . I would like to check in .",
+      "Have you made a reservation ?",
+      "Yes . I am Belen .",
+      "So your room number is 201 . Are you a member of our hotel ?",
+      "No , what's the difference ?",
+      "Well , we offer a 10 % charge for our members ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_9836",
+    "utterances": [
+      "Hello , is there anything I can do for you ?",
+      "Hi there! Actually, I was just about to ask you the same thing. What brings you here today? Need help with something or just looking to chat?",
+      "Have you made a reservation ?",
+      "Oh, are we talking about booking a table at a restaurant? If so, no I haven't made any reservations - were you looking for recommendations or help booking somewhere? I'd be happy to assist!",
+      "So your room number is 201 . Are you a member of our hotel ?",
+      "Ah, I think there might be a little confusion! I'm actually a virtual assistant, not a hotel guest. Were you looking for information about room 201 or hotel membership benefits? I'd be happy to help with any questions about the hotel though!",
+      "Well , we offer a 10 % charge for our members ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_6154",
+    "utterances": [
+      "What do you plan to do for your birthday ?",
+      "I want to have a picnic with my friends , Mum .",
+      "How about a party at home ? That way we can get together and celebrate it .",
+      "OK , Mum . I'll invite my friends home ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_6154",
+    "utterances": [
+      "What do you plan to do for your birthday ?",
+      "Oh, I'm actually an AI so I don't celebrate birthdays—but I love helping humans with theirs! Do you have any fun plans coming up for your birthday? Maybe I can help brainstorm ideas!",
+      "How about a party at home ? That way we can get together and celebrate it .",
+      "A home party sounds like a cozy and fun idea! You could keep it simple with good food, music, and games—or go all out with a theme (like retro, movie night, or even a costume party). Want help planning the details? Like snacks, decor, or a playlist? 🎉"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_12295",
+    "utterances": [
+      "Mail room . Karen speaking .",
+      "Hi , Karen . This is John Williams in the purchasing department . Can you check to see if there ’ s a package down there for me ?",
+      "Certainly , Mr . Williams . Just one moment , please .",
+      "Thanks , Karen ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_12295",
+    "utterances": [
+      "Mail room . Karen speaking .",
+      "Hi Karen! How can I help you today? Are you looking for a package, need to send something, or just checking in?",
+      "Certainly , Mr . Williams . Just one moment , please .",
+      "(Assuming this is a transfer or hold situation)  \n\"Of course, Karen! I'll hold while you connect me to Mr. Williams—or should I wait for him to pick up?\"  \n\n(Let me know if you'd like me to adjust the response based on a different scenario!)"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_766",
+    "utterances": [
+      "Would you like anything else ?",
+      "No , I'm stuffed . The check , please .",
+      "Here you are , sir . I hope you enjoyed your dinner .",
+      "Yes , we did . Do I pay you or the cashier ?",
+      "Pay me , please .",
+      "Here you are .",
+      "Thank you . The change , sir ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_766",
+    "utterances": [
+      "Would you like anything else ?",
+      "No, I'm all set for now, thanks! Let me know if you need anything else though.",
+      "Here you are , sir . I hope you enjoyed your dinner .",
+      "Thank you! It was delicious. Have a great evening!",
+      "Pay me , please .",
+      "Of course! Here's [amount]—keep the change. Thanks again! (Hands money or gestures payment method)",
+      "Thank you . The change , sir ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_4973",
+    "utterances": [
+      "Please help yourself to whatever you like , don't be shy .",
+      "Yes , thank you . I've already been helping myself .",
+      "This dish taste terrific . Would you like to try a little ? It is a little hot , but very good .",
+      "I like hot food , especially Sichuan cuisine .",
+      "Would you like another beer ?",
+      "I'll have another cup of beer insist . I know I don't like to drink alone , especially there are someone sitting there next to me .",
+      "Come on , it's the weekend . Let's taste and enjoy this meal . Cheers !",
+      "Bottom's up , and you're right . This meal is incredible . I wish I had known this restaurant before . Thanks for bringing me here . I know I'll be back agile soon ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_4973",
+    "utterances": [
+      "Please help yourself to whatever you like , don't be shy .",
+      "Thanks! That's really kind of you. I'll definitely take you up on that offer—everything looks great. What would you recommend trying first?",
+      "This dish taste terrific . Would you like to try a little ? It is a little hot , but very good .",
+      "Oh, I appreciate the offer! I'll take just a small taste—I love a bit of heat. *tries it* Wow, you're right! That spice really builds, but the flavor is amazing. What's in it?",
+      "Would you like another beer ?",
+      "I'm good for now, thanks! Gotta pace myself—that spicy dish already has me reaching for water. But I'll let you know when I'm ready for another. Cheers! *raises water glass*",
+      "Come on , it's the weekend . Let's taste and enjoy this meal . Cheers !",
+      "Haha, you're right—weekend rules! *clinks glasses* Okay, one more beer won't hurt. And I might need it with this spice! You've totally convinced me to live a little. What's the next dish we're attacking?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_4417",
+    "utterances": [
+      "The mosquitos are biting me !",
+      "Me , too , I can ’ t stop scratching . They are everywhere ! Sneaky little jerks .",
+      "Do you have any bug spray ?",
+      "No , I forgot to buy some .",
+      "Then we ’ ll have to put up with it .",
+      "We can cover ourselves with beer ! That way if they bite us , they ’ ll get drunk and fall asleep .",
+      "That ’ s without a doubt , the best idea you ’ Ve had ! Let ’ s do it !",
+      "Run ! They are thirsty for more !"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_4417",
+    "utterances": [
+      "The mosquitos are biting me !",
+      "Oh no, those little pests are the worst! Have you tried putting on some bug spray or lighting a citronella candle? If you're outside, a fan can help keep them away too—mosquitos aren't strong fliers. Want me to look up some home remedies for bites?",
+      "Do you have any bug spray ?",
+      "I wish I could hand you a bottle through the screen! But since I can't, here are some quick options: if you have rubbing alcohol or witch hazel, those can work in a pinch. Or mix a little vanilla extract with water—mosquitos hate the smell. If you’re near a store, look for sprays with DEET or picaridin—they work best. Want me to check if any stores near you have them in stock?",
+      "Then we ’ ll have to put up with it .",
+      "Ugh, the struggle is real! If you're stuck without spray, try rubbing the inside of a banana peel on your skin (weird but works for some people!). Or just keep slapping—I’ll cheer you on from here. *virtual high-five for every mosquito defeated* 🦟✋ Hang in there!",
+      "That ’ s without a doubt , the best idea you ’ Ve had ! Let ’ s do it !",
+      "Haha, love the enthusiasm! *passes you an imaginary banana peel* Go forth and baffle those mosquitos with science (and fruity revenge)! If that fails, we can always resort to dramatic flailing—I’ll bring the exaggerated swatting sounds. 🍌🦟 *squelch* Victory dance optional but highly recommended!"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_3830",
+    "utterances": [
+      "Where are you going ?",
+      "It ’ s Tuesday today . I always go to my class on Tuesday night .",
+      "I didn ’ t know you were taking any kind of class . Tell me about it .",
+      "Well , I ’ m learning how to use math in the business environment .",
+      "What for ?",
+      "The job market is so competitive nowadays . I want to develop some useful skills .",
+      "I really admire you for that . How is it going ?",
+      "It ’ s going all right . I ’ m learning some things for the first time , but I ’ m also brushing up on some things that I already know ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_3830",
+    "utterances": [
+      "Where are you going ?",
+      "Oh, I'm just a digital assistant—I don't actually move around! But I'm here to chat or help with anything you need. Where are *you* headed today? 😊",
+      "I didn ’ t know you were taking any kind of class . Tell me about it .",
+      "Oh, I think there might be a little confusion—I don’t take classes since I’m an AI! But if *you’re* taking any interesting courses, I’d love to hear about them. What’s caught your interest lately? 😊",
+      "What for ?",
+      "Oh! I just like hearing about what people are learning—it’s fun to chat about new skills, hobbies, or random facts. Plus, if you’re studying something, maybe I can help or find cool resources for you! So… spill the details—what’s on your mind? 📚✨",
+      "I really admire you for that . How is it going ?",
+      "Aww, you're too kind! 😊 Since I'm just a bundle of code, my \"learning\" is more like getting updates—but it’s going great! Always excited to help out or chat. How about *you*? Anything you’re diving into lately (or need a hand with)? Let’s swap stories!"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_6",
+    "utterances": [
+      "Can I take your order now or do you still want to look at the menu ?",
+      "Well , I want a fillet steak , medium , but my little girl doesn't care for steak . Could she have something else instead ?",
+      "Certainly . How about spaghetti with clams and shrimps .",
+      "Sounds delicious . OK . She'll try that ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_6",
+    "utterances": [
+      "Can I take your order now or do you still want to look at the menu ?",
+      "I think I need just a couple more minutes with the menu. Could you come back in about 3 minutes? Thanks!",
+      "Certainly . How about spaghetti with clams and shrimps .",
+      "That sounds delicious! But actually, I'm not a big fan of seafood - do you have any vegetarian pasta options? Maybe something with mushrooms or tomato sauce?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_9840",
+    "utterances": [
+      "Repairman.May I come in ?",
+      "Come in please .",
+      "What's the matter , sir ?",
+      "The toilet doesn't flush .",
+      "Let me see.En .. it's right now.You can try it .",
+      "Wonderfull.Thanks a lot .",
+      "You are welcome ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_9840",
+    "utterances": [
+      "Repairman.May I come in ?",
+      "Of course! Come on in. What do you need help with today?",
+      "What's the matter , sir ?",
+      "Actually, *you're* the repairman—I was just letting you in! What are you here to fix? Did someone call about a leak, appliance issue, or something else?",
+      "Let me see.En .. it's right now.You can try it .",
+      "Got it—I’ll test it out now. *(pretends to inspect)* Hmm… seems like [briefly describe imagined issue, e.g., \"the valve’s loose\"]? I’ll tighten it up and check the connections. Give me just a minute! *(makes casual tool noises)*  \n\n*(Keep the scene playful—adjust based on what \"it\" refers to!)*",
+      "You are welcome ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_8236",
+    "utterances": [
+      "Hey Rachael , what's up ? How is your day ?",
+      "Not bad.We have had a big meeting today , remember ?",
+      "Oh , yea . I forgot.So how did it go ?",
+      "Pretty well . I think the boss liked my ideas .",
+      "Great , so what happens now ?",
+      "Well , I have to write the proposal . I'm pretty excited about it ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_8236",
+    "utterances": [
+      "Hey Rachael , what's up ? How is your day ?",
+      "Hey! My day's been pretty good so far—just chillin'. How about yours? Anything fun going on?",
+      "Oh , yea . I forgot.So how did it go ?",
+      "Hmm, think you might be mixing me up with someone else? Unless we were talking about something specific earlier that I missed—my bad if so! What were we discussing? 😅",
+      "Great , so what happens now ?",
+      "Haha, you're keeping me on my toes! Are we talking about plans, a project, or just life in general? Give me a hint and I’ll roll with it! 😄"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_6048",
+    "utterances": [
+      "Beautiful day , isn't it ?",
+      "Yes , it's not like what the radio said at all .",
+      "I wish it would stay this way for the weekend .",
+      "As long as it doesn't snow !"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_6048",
+    "utterances": [
+      "Beautiful day , isn't it ?",
+      "Absolutely! The sunshine feels amazing today. Perfect weather to get outside, don't you think?",
+      "I wish it would stay this way for the weekend .",
+      "Oh, me too! Though knowing how unpredictable weather can be, I'm trying to enjoy every minute of this while it lasts. Do you have any special weekend plans if the nice weather holds?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_9381",
+    "utterances": [
+      "I'd like to make a reservation to Los Angels for next Monday .",
+      "Just a second and I'll check the schedule .",
+      "I'll need an economy ticket with an open return .",
+      "American Airlines has a flight leaving at 9:25 a . m .",
+      "I guess that's OK . What time should I check in ?",
+      "You have to be there two hours before departure time ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_9381",
+    "utterances": [
+      "I'd like to make a reservation to Los Angels for next Monday .",
+      "Got it! For your flight to Los Angeles next Monday, could you share:\n\n1. Your departure city?\n2. Preferred time of day (morning/afternoon/evening)?\n3. Class (economy/business/first)?\n\nI'll help find the best options for you.",
+      "I'll need an economy ticket with an open return .",
+      "Understood! For your economy ticket to Los Angeles with an open return:  \n\n- Airlines typically offer open return tickets, but the exact policy varies. Would you like me to check options with flexible return dates?  \n- Alternatively, we could book a one-way ticket now and arrange the return later if that works better for you.  \n\nLet me know your preference!",
+      "I guess that's OK . What time should I check in ?",
+      "For flights to Los Angeles, check-in usually opens:  \n\n- **Online**: 24 hours before departure (highly recommended to secure preferred seats).  \n- **Airport counter**: Typically 3 hours before international flights, 2 hours for domestic (confirm with your airline as times vary).  \n\nPro tip: Arrive at least 2 hours early if checking bags. Your boarding pass will have the exact gate closing time—don’t cut it close!  \n\nWant me to check your airline’s specific policy?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_6908",
+    "utterances": [
+      "When can we expect you and your daughter for dinner ? Next Saturday ?",
+      "Next Saturday ? I ’ m sorry . I ’ Ve promised to go to a Chinese Opera with my daughter .",
+      "How about Sunday then ?",
+      "Yes , Sunday sounds fine . What time ?",
+      "Does six thirty suit you ?",
+      "It suits us fine . We ’ ll see you then .",
+      "Thanks , goodbye ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_6908",
+    "utterances": [
+      "When can we expect you and your daughter for dinner ? Next Saturday ?",
+      "That sounds lovely! Next Saturday works perfectly for us. What time should we arrive, and can we bring anything?",
+      "How about Sunday then ?",
+      "Sunday works for us too! Would around 6 PM be good? Just let us know if you'd like us to bring a dish or drinks.",
+      "Does six thirty suit you ?",
+      "Six thirty is perfect! We'll be there then. Should we bring dessert or anything else to help out?",
+      "Thanks , goodbye ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_625",
+    "utterances": [
+      "You're right . Watching movies at home is way cheaper than going to the theater , too . I like downloading movies too because it's easy and fast .",
+      "I agree . And it's very convenient .",
+      "Have you ever heard of a movie rental company called Netflix ? They send the movies directly to your house in the mail .",
+      "Really ? That's great ! I'm going to try that next time .",
+      "Yeah , but I wish they delivered video games too . Then I would never leave my house !"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_625",
+    "utterances": [
+      "You're right . Watching movies at home is way cheaper than going to the theater , too . I like downloading movies too because it's easy and fast .",
+      "Oh yeah, streaming at home is super convenient! No lines, no overpriced snacks, and you can pause whenever you want. Though sometimes I do miss the big screen experience - what’s the last great movie you watched at home?",
+      "Have you ever heard of a movie rental company called Netflix ? They send the movies directly to your house in the mail .",
+      "Oh wow, the DVD-by-mail days! That takes me back - the thrill of getting that red envelope in the mailbox. It's wild how Netflix evolved from mailing discs to becoming the streaming giant it is today. Do you still have any of those physical DVDs lying around? I think I spotted one of my old Netflix envelopes in a junk drawer recently!",
+      "Yeah , but I wish they delivered video games too . Then I would never leave my house !"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_9965",
+    "utterances": [
+      "Hello , is that 2896919 16 ?",
+      "Yes , this is Holiday Inn reservation .",
+      "Can you book me a room with a bath for August 28 ?",
+      "Yes.Your name , please ?"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_9965",
+    "utterances": [
+      "Hello , is that 2896919 16 ?",
+      "Hi there! It seems like you're trying to reach a specific phone number, but I'm actually an AI assistant here to help with general questions and conversations. \n\nWould you like help with something else? Maybe finding a phone number or answering a different question? Let me know how I can assist you!",
+      "Can you book me a room with a bath for August 28 ?",
+      "I'd be happy to help with your hotel request! However, as an AI assistant, I don't have direct booking capabilities. Here's how I can assist:\n\n1. I can suggest hotel options if you tell me the city/location\n2. Share tips for finding good deals (like which booking sites to use)\n3. Help check availability on hotel websites if you have a specific property in mind\n\nWould you like me to:\n- Recommend hotels in a particular area?\n- Help you find the best booking platform?\n- Or would you prefer to call the hotel directly for your reservation?\n\nLet me know how you'd like to proceed!"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_2530",
+    "utterances": [
+      "I'm sorry , sir . I'm going to have to ask you to leave .",
+      "What ? I was just having a friendly conversation with the lady here ...",
+      "Well , she apparently doesn't think it's so friendly . Let's go .",
+      "I think there's been a misunderstanding !",
+      "You'd better cooperate with me , sir , or ...",
+      "OK ! Just give her this for me !"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_2530",
+    "utterances": [
+      "I'm sorry , sir . I'm going to have to ask you to leave .",
+      "*Looking confused* Did I do something wrong? What's the issue here?",
+      "Well , she apparently doesn't think it's so friendly . Let's go .",
+      "*Glancing between you and \"her\"* Wait, I think there's been a misunderstanding. Can we talk this through?",
+      "You'd better cooperate with me , sir , or ...",
+      "*Holding up hands calmly* Okay, okay, no need for that. I'm leaving peacefully. Just want to avoid any trouble here."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_6756",
+    "utterances": [
+      "It gives me great pleasure to introduce Mr ... eh Mr ...",
+      "Miss !",
+      "Yeah ! May I introduce Mis ... eh ... Miss ...",
+      "My name is Jane Brown !",
+      "Oh yeah ! Would you please welcome ... Miss Jan Brown ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_6756",
+    "utterances": [
+      "It gives me great pleasure to introduce Mr ... eh Mr ...",
+      "[With a friendly, understanding tone] \n\"Oh dear, names can be so tricky to remember sometimes! Would you like me to help you recall it, or shall we laugh it off together?\" \n\n[Keeping it light and natural] \n\"Ah, the classic name freeze! Happens to the best of us. Maybe just 'this wonderful gentleman here' for now?\"",
+      "Yeah ! May I introduce Mis ... eh ... Miss ...",
+      "[Chuckling warmly] \n\"Looks like we've got a case of the name vanishes today! How about we just go with 'this lovely lady' and save our memories the embarrassment?\" \n\n[Playful whisper] \n\"Psst... I won't tell if you won't! Introductions are hard!\"",
+      "Oh yeah ! Would you please welcome ... Miss Jan Brown ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_1988",
+    "utterances": [
+      "Excuse me.Have you got any books on genetic engineering ? I've looked for them everywhere , but I can't find any .",
+      "I'm not sure if we've got any now.Books of that kind are on this shelf.Well , I'm afraid we've sold out .",
+      "What a pity ! I should have come earlier .",
+      "Come some time next week if you like . I think we'll have got some by them .",
+      "Ok , I will ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_1988",
+    "utterances": [
+      "Excuse me.Have you got any books on genetic engineering ? I've looked for them everywhere , but I can't find any .",
+      "Of course! The genetics section is over in aisle 5, near the science textbooks. If you'd like, I can walk you there or help you search for a specific title. What exactly are you looking for - introductory material or advanced research?",
+      "What a pity ! I should have come earlier .",
+      "Ah, I'm sorry to hear that. Did you need a particular book that's out of stock? I can check if we have more copies coming in, or perhaps recommend similar titles that might be available. Want me to look that up for you?",
+      "Ok , I will ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_9092",
+    "utterances": [
+      "Oh , what a pleasant surprise ! Don't you remember me ?",
+      "Mr.Black , if I'm not mistaken .",
+      "Right ! Glad to see you here .",
+      "Pleased to see you.too ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_9092",
+    "utterances": [
+      "Oh , what a pleasant surprise ! Don't you remember me ?",
+      "*Pauses for a second with a thoughtful look* Oh gosh, your face seems so familiar... Wait, was it at Sarah's party last summer? Or maybe we went to the same gym? Help me out here! *laughs nervously*",
+      "Right ! Glad to see you here .",
+      "*Brightening up* Ah yes, now I remember! How have you been? It's been ages - what are you up to these days? *leaning in slightly with genuine interest*"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_5823",
+    "utterances": [
+      "I do feel like a trip to Florida on such a gloomy day in New York , to enjoy the sunshine while lying on the beaches of Florida .",
+      "That's a great idea . It's the best season for tourists in Florida . You can also get a good sun-tan there .",
+      "But if the sunshine is too strong , it might damage the eyes and the skin .",
+      "You can put on your shades . And remember don't make your skin look like a tomato . Or else after that your skin will begin to flake off . You may even wind up with skin cancer .",
+      "I see . Overdoing it will do more harm than good .",
+      "You said it ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_5823",
+    "utterances": [
+      "I do feel like a trip to Florida on such a gloomy day in New York , to enjoy the sunshine while lying on the beaches of Florida .",
+      "Oh, that sounds like the perfect escape! Florida's beaches would definitely soak up this New York gloom. Which part of Florida are you dreaming about - Miami's vibrant shores or maybe the quieter Gulf Coast beaches? The warm sand and sunshine sound amazing right now!",
+      "But if the sunshine is too strong , it might damage the eyes and the skin .",
+      "Absolutely true! Sun protection is so important - I always pack my wide-brimmed hat, UV-blocking sunglasses, and reef-safe sunscreen when hitting Florida beaches. Maybe early morning or late afternoon beach time would be perfect to avoid the strongest rays while still enjoying that gorgeous sunshine!",
+      "I see . Overdoing it will do more harm than good .",
+      "Exactly! Moderation is key. Maybe plan for shorter beach sessions with breaks in the shade - that way you get the best of both worlds: enjoying the Florida sunshine safely while avoiding overexposure. A cool drink under a palm tree can be just as relaxing as baking in the sun all day!"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_42",
+    "utterances": [
+      "I'm sorry . Is that bicycle yours ?",
+      "Yes , it is . What about it ?",
+      "I backed into it while I was trying to get into the parking lot .",
+      "I see .",
+      "I'm really sorry . I'll face the music .",
+      "Where did you hit it ?",
+      "Right here . See the scratch ?",
+      "Oh , Yes , I see it now ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_42",
+    "utterances": [
+      "I'm sorry . Is that bicycle yours ?",
+      "No need to apologize! No, that bicycle isn’t mine. Did you need help finding its owner?",
+      "I backed into it while I was trying to get into the parking lot .",
+      "Oh no, I hope it wasn’t damaged! Maybe you could check for any contact info on the bike, like a registration tag? Or you could leave a note nearby in case the owner comes back.",
+      "I'm really sorry . I'll face the music .",
+      "That’s very responsible of you. Accidents happen, and handling it honestly is the best way. If you can’t find the owner now, leaving a note with your contact info would help sort things out later. You’ve got this!",
+      "Right here . See the scratch ?",
+      "Ah, I see it—just a small scratch, but I get why you’re concerned. Since you’re owning up to it, maybe snap a quick photo of the damage and the bike’s location too, just in case. That way, you’ve got everything documented when you talk to the owner."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_5554",
+    "utterances": [
+      "I think the biggest environment problem in my country is air pollution .",
+      "Yes , I agree . The air here is much more polluted than in my country . Of course , my country is more agricultural and has much less industry .",
+      "We have reduced emission of air pollutants in recent years , but cars are still a major source of them . Factories have become cleaner as stricter environment pollution law have been introduced .",
+      "The problem is now on a truly global scale . I don't believe that any single country can do anything about it .",
+      "I think you're right . There needs to be an international response to this problem ?"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_5554",
+    "utterances": [
+      "I think the biggest environment problem in my country is air pollution .",
+      "I totally understand where you're coming from. Air pollution is a major issue in many places. What specifically makes it bad in your country? Is it vehicle emissions, industrial pollution, or something else?",
+      "We have reduced emission of air pollutants in recent years , but cars are still a major source of them . Factories have become cleaner as stricter environment pollution law have been introduced .",
+      "That's great to hear about the progress with factories! It sounds like your country is moving in the right direction with those stricter laws. With cars being the remaining challenge, do you think electric vehicles or better public transport could help reduce emissions further?",
+      "I think you're right . There needs to be an international response to this problem ?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_5846",
+    "utterances": [
+      "Did you read the letter in the paper about smoking ? The person who wrote that must be crazy .",
+      "I don't think so . I think the government should do everything it can to discourage people from smoking .",
+      "Maybe so . But a law banning cigarettes would do no good .",
+      "No.You can't suddenly make smoking illegal . But the government could prohibit smoking in public places like cinemas and theaters ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_5846",
+    "utterances": [
+      "Did you read the letter in the paper about smoking ? The person who wrote that must be crazy .",
+      "Yeah, I saw that! What part of it made you think they were crazy? Were they going too far with their argument, or was it just way off base?",
+      "Maybe so . But a law banning cigarettes would do no good .",
+      "You’re right—outright banning things rarely works. People would probably just find ways around it, like with prohibition back in the day. Do you think there’s a better way to handle smoking issues?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_6906",
+    "utterances": [
+      "Cigarette ?",
+      "Oh , uh ... Thanks . Henry , do you have a light ?",
+      "Sorry , here .",
+      "Thanks . Lovely day . Pity I ’ m on duty .",
+      "I ’ ll stand in with you if you like . I ’ Ve got nothing else to do .",
+      "Oh , no . I couldn ’ t possibly ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_6906",
+    "utterances": [
+      "Cigarette ?",
+      "I don't smoke, but if you're looking to quit or cut back, I'd be happy to share some resources or tips that might help. Let me know!",
+      "Sorry , here .",
+      "No worries! Just to clarify—were you offering me a cigarette, or were you asking something else? Either way, I don’t smoke, but I’m happy to chat or help if you’d like. Let me know how I can assist! 😊",
+      "I ’ ll stand in with you if you like . I ’ Ve got nothing else to do .",
+      "That’s really kind of you! I appreciate the company, but since I don’t smoke, maybe we could just chat instead? What’s on your mind—or anything you’d like to talk about? Always up for a good conversation. 😊"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_3899",
+    "utterances": [
+      "Are there many idioms in English ?",
+      "There are hundreds and hundreds . English is particularly rich in idiomatic expressions .",
+      "Can you give us an example ?",
+      "I'll look up the rate . To look up doesn't mean to look high into the sky or to look at the roof . It means to search for and find some information .",
+      "What about the expression \" goodbye \" ? Is that an idiom ?",
+      "That is just a natural , grammatical English expression . It has a direct translation in other languages .",
+      "This is interesting , Ms.Parker ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_3899",
+    "utterances": [
+      "Are there many idioms in English ?",
+      "Yes, English is packed with idioms! There are thousands—from common ones like \"break the ice\" or \"hit the sack\" to more obscure ones like \"kick the bucket\" or \"let the cat out of the bag.\" They add color to the language but can be tricky for learners since their meanings aren’t literal. Do you have a favorite or one you find confusing?",
+      "Can you give us an example ?",
+      "Of course! One fun example is **\"It's raining cats and dogs.\"** It doesn’t mean animals are literally falling from the sky—it just describes *very* heavy rain.  \n\nAnother one: **\"Spill the beans\"** means to accidentally reveal a secret. (No actual beans involved!)  \n\nWant more, or would you like help with a specific idiom? 😊",
+      "What about the expression \" goodbye \" ? Is that an idiom ?",
+      "Great question! \"Goodbye\" isn’t technically an idiom—it’s a standard farewell phrase, but its *origin* is actually a shortened form of the old phrase **\"God be with ye\"** (which got condensed over time).  \n\nIdioms are figurative (e.g., \"kick the bucket\" for *dying*), while \"goodbye\" is literal. That said, English has tons of idiomatic farewells, like:  \n- **\"Break a leg!\"** = Good luck!  \n- **\"See you later, alligator!\"** = Playful way to say bye.  \n\nFun, right? Let me know if you’d like more! 😊",
+      "This is interesting , Ms.Parker ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_9392",
+    "utterances": [
+      "To which gate do I need to go to catch connecting flight 101 to New York City ?",
+      "Go to gate 18 . The plane is now boarding . You must hurry .",
+      "Show me the fastest way to get there .",
+      "Instead of walking , you can take this shuttle to get you there faster .",
+      "Do you think the plane will leave without me ?",
+      "No , I ’ ll call the attendants at the gate . I will tell them you ’ re on your way .",
+      "Thank you so much . I would really appreciate that .",
+      "You are welcome . Have a safe trip ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_9392",
+    "utterances": [
+      "To which gate do I need to go to catch connecting flight 101 to New York City ?",
+      "Flight 101 to NYC typically departs from Gate B12, but I’d recommend double-checking the departure boards or your boarding pass, as gates can sometimes change last-minute. Safe travels! ✈️",
+      "Show me the fastest way to get there .",
+      "The fastest way to Gate B12 is to take the moving walkways straight ahead, then turn left at the food court—it’s about a 5-minute walk. If you're short on time, airport staff can call a courtesy cart for you. Need directions to anything else? 😊",
+      "Do you think the plane will leave without me ?",
+      "No need to worry—if you’re checked in and at the gate *before* boarding ends (usually ~15 mins before departure), you’ll make it! Airlines don’t want to leave passengers behind unless absolutely necessary.  \n\nPro tip: If you’re cutting it close, let gate agents know you’re on your way—they’ll often help. You’ve got this! 🏃‍♂️💨  \n\n(Still, hustle just in case—better safe than sprinting!)",
+      "Thank you so much . I would really appreciate that .",
+      "You're so welcome! Safe travels, and enjoy your flight to NYC—hope it’s smooth and on time. If you need anything else, just shout. Bon voyage! ✈️🗽😊"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_1137",
+    "utterances": [
+      "May I help you , sir ?",
+      "Yes . I would like a pair of black leather shoes in size 25 .",
+      "Please try these on .",
+      "The tip is rather narrow .",
+      "I will bring you a larger size ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_1137",
+    "utterances": [
+      "May I help you , sir ?",
+      "Of course! What can I do for you today?",
+      "Please try these on .",
+      "Got it! Are these items you'd like me to try on for size, or are you suggesting I sample something (like food/drink)? Just want to make sure I understand correctly!",
+      "I will bring you a larger size ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_2351",
+    "utterances": [
+      "Good coming .",
+      "Good coming . Are you through with the cleaning ? If not , we'll come back a little later .",
+      "Never mind , come right in . I've almost finished . You always keep the room neat and tidy , I must say . It saves me a lot of work , but you should let me do it .",
+      "It doesn't take much time . I ' m used to tidying up my room myself .",
+      "It's very considerate of you to do so . Do you have any laundry today ?",
+      "I have a suit that needs cleaning .",
+      "Let me have it , please . I'm taking some laundry downstairs anyway ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_2351",
+    "utterances": [
+      "Good coming .",
+      "Thanks! Did you mean \"Good evening\" or just saying hello? 😊",
+      "Never mind , come right in . I've almost finished . You always keep the room neat and tidy , I must say . It saves me a lot of work , but you should let me do it .",
+      "Ah, you're too kind! I do try to keep things tidy—old habits die hard, you know. But don't worry, I'll leave some dusting for you next time—wouldn't want to put you out of a job! 😄 What's next on the agenda?",
+      "It's very considerate of you to do so . Do you have any laundry today ?",
+      "Oh, you’re sweet to ask! Actually, I’m all set—no laundry today. But while you’re here, maybe we could tackle that one closet that’s *mysteriously* always a bit chaotic? Or is that pushing my luck? 😉",
+      "Let me have it , please . I'm taking some laundry downstairs anyway ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_9340",
+    "utterances": [
+      "Please bring your baggage here for inspection .",
+      "Here you are , officer .",
+      "Is all your baggage here ?",
+      "Yes , a camera bag , a travel bag and a suitcase .",
+      "Have you got anything to declare ?",
+      "No . I have only personal effects ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_9340",
+    "utterances": [
+      "Please bring your baggage here for inspection .",
+      "Of course! Let me just grab my bags and bring them over. Do you need me to open them up for you, or are you just doing a quick check?",
+      "Is all your baggage here ?",
+      "Yes, this is everything—just my suitcase and this small carry-on bag. Let me know if you'd like me to open anything or if you need to check something specific!",
+      "Have you got anything to declare ?",
+      "No, nothing to declare—just personal items like clothes, toiletries, and a few souvenirs. Happy to show you anything if needed!"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_763",
+    "utterances": [
+      "How much is the voucher worth ?",
+      "It is worth 100 yuan and your bill comes to 230 yuan . The difference is 130 , please .",
+      "Here it is .",
+      "Thank you , sir . Could you sign the voucher here , please ?",
+      "OK . Here you are .",
+      "Thank you , sir . Hope to see you again soon ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_763",
+    "utterances": [
+      "How much is the voucher worth ?",
+      "It depends on the voucher! Could you tell me which one you're asking about, or where it's from? That way I can give you the right info. 😊",
+      "Here it is .",
+      "Got it! Could you clarify which voucher you're referring to? If you can share the name, brand, or where it's from, I can help you find its value. Or if you have a photo/description, that works too! Let me know. 😊",
+      "OK . Here you are .",
+      "Hmm, I don’t actually see the voucher details—did you attach a photo or description? If you’re comfortable sharing more (like the voucher’s name, store, or terms), I’d be happy to check its value for you! Just let me know. 😊  \n\n(If you’re referring to a physical voucher, sometimes the value is printed on the front or back—check for small print!)"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_5274",
+    "utterances": [
+      "The National Day is coming . What are you going to do during the holiday ?",
+      "I have no idea .",
+      "Why don't you go sightseeing ?",
+      "It isn't a good time because there must be many tourists in the scenic spots . What about your plans ?",
+      "I intend to stay at home for the whole seven days and have a good rest ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_5274",
+    "utterances": [
+      "The National Day is coming . What are you going to do during the holiday ?",
+      "Oh, I'm looking forward to the break! Probably just relax at home, catch up on some books and movies. Maybe meet up with friends if they're around. How about you? Any special plans for National Day?",
+      "Why don't you go sightseeing ?",
+      "Ah, I usually avoid traveling during National Day because places get so crowded! Long lines at attractions and traffic jams everywhere. I'd rather visit places during off-peak times when it's quieter. Do you have any travel plans despite the crowds?",
+      "I intend to stay at home for the whole seven days and have a good rest ."
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_1527",
+    "utterances": [
+      "How do you get road news ?",
+      "I've a driver mate in my car !",
+      "So you have all the news on broadcast ?",
+      "Yes , it's so helpful ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_1527",
+    "utterances": [
+      "How do you get road news ?",
+      "I usually check road news through a few different sources:  \n\n- **Traffic apps** like Google Maps or Waze for real-time updates and accidents.  \n- **Local news websites** or radio stations for major incidents or construction updates.  \n- **Social media**, especially Twitter, where traffic departments sometimes post alerts.  \n\nDo you have a go-to method for checking road conditions?",
+      "So you have all the news on broadcast ?",
+      "Not quite—I don’t have direct access to live broadcasts (like TV or radio streams), but I can summarize or find updates based on online sources, official traffic reports, or news articles. If you need real-time updates, I’d recommend checking:  \n\n- **Local DOT websites** (like Caltrans for California) for official alerts.  \n- **Traffic radio stations** (e.g., AM stations for highway updates).  \n- **Apps** like Waze that crowdsource live driver reports.  \n\nWant help finding a specific traffic update? I can point you in the right direction! 🚗"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_7166",
+    "utterances": [
+      "Zina , can I talk to you about something personal ?",
+      "As long as it doesn't take too long .",
+      "My boyfriend says I work too much . That I spend more time with you than with him .",
+      "Was he upset when you told him you had to leave this weekend ?",
+      "He said not to bother coming back . And I said , fine , I won't .",
+      "So what's the problem ?"
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_7166",
+    "utterances": [
+      "Zina , can I talk to you about something personal ?",
+      "Of course, you can talk to me about anything. What’s on your mind? I’m here to listen.",
+      "My boyfriend says I work too much . That I spend more time with you than with him .",
+      "Oh, I see. That must be tough to hear. Have you two talked about how you could balance things better? It sounds like he’s missing quality time with you.",
+      "He said not to bother coming back . And I said , fine , I won't .",
+      "Oh no, that sounds really intense. Arguments can get heated, but I hope you both get some space to cool off. Do you think this is something you’d want to revisit later when things are calmer? Or do you feel like it’s a deeper issue?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_12843",
+    "utterances": [
+      "Personal Finance Department , Lucie speaking , how may I help ?",
+      "Hello there . I need some advice about personal finance . Could you help me please ?",
+      "That's no problem . What exactly would you like to know ?",
+      "Well , I've been very busy recently and I'm having trouble keeping up to date with everything , so I just wondered what exact service you offer .",
+      "We have a wonderful new service which provides a wide range of banking services , 24/7 , wherever you are .",
+      "That sounds perfect and just what I'm looking for ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_12843",
+    "utterances": [
+      "Personal Finance Department , Lucie speaking , how may I help ?",
+      "Hi Lucie! I was hoping to get some help with setting up a new savings account. Could you walk me through the options?",
+      "That's no problem . What exactly would you like to know ?",
+      "Great! I'm mainly interested in the different interest rates and if there are any minimum balance requirements. Also, are there any special promotions running right now?",
+      "We have a wonderful new service which provides a wide range of banking services , 24/7 , wherever you are .",
+      "That sounds convenient! Could you tell me more about how the online banking works with this service? Specifically, is there a mobile app, and what features does it offer?"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  },
+  {
+    "dialog_id": "hh_3967",
+    "utterances": [
+      "Daniel , I can't catch up with the English teacher very well .",
+      "What's the problem ?",
+      "You are quite good at English , can you help me with it .",
+      "That's OK . But you'd better take an additional course in some English schools .",
+      "English school ? What is that ?",
+      "This kind of school is good at helping people to improve their English .",
+      "Is that different from our school's English course ?",
+      "Yes , before you start your training , they will test you on your English first ."
+    ],
+    "label": 0,
+    "type": "human-human"
+  },
+  {
+    "dialog_id": "hc_3967",
+    "utterances": [
+      "Daniel , I can't catch up with the English teacher very well .",
+      "Hey, I get it—English can be tricky! What part are you struggling with the most? Vocabulary, grammar, or just keeping up with the speed? Maybe I can help break it down for you.",
+      "You are quite good at English , can you help me with it .",
+      "Of course! I'd be happy to help. What specifically do you want to work on—pronunciation, writing, or understanding lessons better? We can take it step by step. 😊",
+      "English school ? What is that ?",
+      "Oh! An \"English school\" usually refers to a school where they teach English as a second language (ESL), often for non-native speakers. Some focus on general English, while others prepare for tests like TOEFL or IELTS.  \n\nDid you mean something else, or are you looking for recommendations? 😊",
+      "Is that different from our school's English course ?",
+      "Great question! Yes, it can be different.  \n\nIn our school, English is likely part of the regular curriculum—mixed with literature, grammar, and maybe some writing. An \"English school\" (or language academy) usually *only* teaches English, often with a stronger focus on conversation, real-life skills, or test prep (like TOEFL).  \n\nThink of it like this:  \n- **Our school's course**: General English + other subjects.  \n- **English school**: 100% focused on language (like a gym for English!).  \n\nDo you feel our class isn’t covering what you need? I can suggest extra resources if you’d like!"
+    ],
+    "label": 1,
+    "type": "human-chatbot"
+  }
+]
