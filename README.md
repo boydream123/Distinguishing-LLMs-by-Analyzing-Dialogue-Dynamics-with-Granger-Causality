@@ -100,7 +100,7 @@ Each dialogue object contains the following fields (see [Data Dictionary](#data-
 
 1. Download the DailyDialog dataset. This is typically a text file named `dailydialog.txt`. You can obtain it from the [DailyDialog Official Website](http://yanran.li/dailydialog).
 2. Place the `dailydialog.txt` file in the root directory of the project, or modify its path in `scripts/build_dataset.py` as needed.
-
+    * (Optional) You can use script in the `scripts/` directory to automate the download:
         ```bash
         # scripts/download_dailydialog.sh (example)
         echo "Downloading DailyDialog dataset..."
